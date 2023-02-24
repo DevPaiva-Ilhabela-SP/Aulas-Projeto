@@ -8,7 +8,6 @@ Um projeto teste com um arquivo README
 - JS
 ## Como utilizar
 1-Clone para o desenvolvimento do Projeto
-git clone <url>
+- git clone <url>
 2-Acesse a pasta do projeto
-'''
-cd repositorio-com-readme
+- cd repositorio-com-readme
