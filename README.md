@@ -1,8 +1,8 @@
 #Projeto com README
 Um projeto teste com um arquivo README 
 🚀🛰
-[<img src="world-of-warcraft.gif" alt="gif fotos de animais da africa do projeto com README">]
-(https://www.tecmundo.com.br/voxel/world-of-warcraft-dragonflight-tudo-sobre/?utm_source=tecmundo&utm_medium=cta-canais-exclusivos&utm_campaign=wow-dragonflight)
+[<img src="world-of-warcraft.gif" alt="gif site de game world-of-warcraft">]
+(https://worldofwarcraft.blizzard.com/pt-br/)
 ## Tecnologias utilizadas
 - HTML
 - CSS
@@ -15,3 +15,4 @@ git clone <url>
 2-Acesse a pasta do projeto
 ```
 cd repositorio-com-readme
+```
